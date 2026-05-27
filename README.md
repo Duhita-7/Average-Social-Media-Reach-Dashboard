@@ -16,7 +16,7 @@ Funding strategy performance
 The project demonstrates advanced Power BI capabilities including interactive visuals, KPI tracking, tooltips, drill-through analysis, and custom dashboard navigation.
 
 # Dashboard Preview
-# 1. Main Dashboard
+1. Main Dashboard
 KPI Cards
 Country Performance Analysis
 Fundraising Platform Analysis
@@ -24,7 +24,7 @@ Geographic Insights
 Marketing Spend Trends
 Campaign Type Analysis
 
-# 2.Funding Information Page
+2.Funding Information Page
 Detailed tooltip analysis
 Platform-wise campaign performance
 Volunteer analysis
@@ -39,12 +39,12 @@ Data Modeling
 Interactive Visualization Techniques
 
 # Key Features
-# 1. KPI Metrics
+1. KPI Metrics
 Total Donor Count
 Average Media Coverage Score
 Average Social Media Reach
 
-# 2. Interactive Visuals
+2. Interactive Visuals
 Bar Charts
 Waterfall Charts
 Sankey Diagram
@@ -53,7 +53,7 @@ KPI Cards
 Gauge Charts
 Matrix Tables
 
-# 3. Advanced Power BI Features
+3. Advanced Power BI Features
 Tooltip Pages
 Cross Filtering
 Interactive Navigation Buttons
