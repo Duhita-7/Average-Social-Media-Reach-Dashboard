@@ -1,7 +1,8 @@
-# Average-Social-Media-Reach-Dashboard
+
 
 # Fundraising Campaign Analytics Dashboard
-A professional and interactive Power BI dashboard designed to analyze fundraising campaign performance, donor engagement, marketing effectiveness, and regional fundraising trends.
+A professional and interactive Power BI dashboard designed to analyze fundraising campaign performance,
+donor engagement,marketing effectiveness, and regional fundraising trends.
 
 # Project Overview
 This dashboard provides insights into:
@@ -13,7 +14,8 @@ Social media reach
 Marketing spend analysis
 Funding strategy performance
 
-The project demonstrates advanced Power BI capabilities including interactive visuals, KPI tracking, tooltips, drill-through analysis, and custom dashboard navigation.
+The project demonstrates advanced Power BI capabilities including interactive visuals,
+KPI tracking, tooltips, drill-through analysis, and custom dashboard navigation.
 
 # Dashboard Preview
 1. Main Dashboard
@@ -114,7 +116,8 @@ Add AI-based insights
 Improve accessibility and theme customization
 
 # Author
-Developed as a Power BI portfolio and analytics project for learning, presentation, and business intelligence practice.
+Developed as a Power BI portfolio and analytics project for learning,
+presentation, and business intelligence practice.
 
 # License
 This project is intended for educational and portfolio purposes.
